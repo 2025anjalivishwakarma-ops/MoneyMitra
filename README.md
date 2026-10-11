@@ -1,6 +1,6 @@
 # MoneyMitra
 
-An expense tracker that shows where your money goes, warns you before you overspend, and helps you hit a monthly savings goal. The app itself is branded **Coinfold**.
+An expense tracker that shows where your money goes, warns you before you overspend, and helps you hit a monthly savings goal. The app itself is branded **MoneyMitra**.
 
 Built with React, Tailwind CSS and Lucide icons, on a fullscreen video hero landing page.
 

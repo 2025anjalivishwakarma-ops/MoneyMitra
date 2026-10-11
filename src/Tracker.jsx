@@ -35,7 +35,7 @@ function sampleData() {
     return { id, date: isoDay(d), category, note, amount }
   }
   return {
-    income: 40000,
+    income: 100000,
     goal: 8000,
     isSample: true,
     expenses: [

@@ -9,7 +9,7 @@ const links = [
   { label: 'Home', href: '#home' },
   { label: 'Tracker', href: '#tracker' },
   { label: 'Insights', href: '#insights' },
-  { label: 'Reach Us', href: '#reach' },
+  { label: 'Reach us', href: '#reach' },
 ]
 
 export default function App() {
