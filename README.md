@@ -4,6 +4,12 @@ An expense tracker that shows where your money goes, warns you before you oversp
 
 Built with React, Tailwind CSS and Lucide icons, on a fullscreen video hero landing page.
 
+   ## Screenshots
+
+   ![Hero page](screenshots/hero.png)
+
+   ![Dashboard with risk meter and charts](screenshots/dashboard.png)
+   
 ## Features
 
 - **Expense tracking.** Add expenses with an amount, category, date and optional note. Delete any entry.
